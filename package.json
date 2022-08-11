@@ -1,0 +1,20 @@
+{
+  "name": "serverless-encryptor-plugin",
+  "version": "1.0.0",
+  "description": "Serverless plugin template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "2.924.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "serverless": "2.x"
+  },
+  "engines": {
+    "node": ">=10.0"
+  },
+  "license": "MIT"
+}
